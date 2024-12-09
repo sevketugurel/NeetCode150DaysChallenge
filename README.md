@@ -37,7 +37,7 @@ Her gün için şu formatta bir tweet dizisi yayınlayacağım:
 [Problemin kısa ve öz açıklaması]
 
 **Çözümüm:**  
-[Çözümünümün kısa ve öz açıklaması]
+[Çözümümün kısa ve öz açıklaması]
 
 [Kod Parçacığı (tercihim birden fazla dilde şu an java)]
 
