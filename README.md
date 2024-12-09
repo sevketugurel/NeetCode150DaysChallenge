@@ -33,6 +33,9 @@ Her gün için şu formatta bir tweet dizisi yayınlayacağım:
 **Kategori:** [Problem Kategorisi]  
 **Zorluk:** [Zorluk Seviyesi]
 
+**Problemin Açıklaması:**  
+[Problemin kısa ve öz açıklaması]
+
 **Çözümüm:**  
 [Çözümünümün kısa ve öz açıklaması]
 
