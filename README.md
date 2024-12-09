@@ -34,12 +34,12 @@ Her gün için şu formatta bir tweet dizisi yayınlayacağım:
 **Zorluk:** [Zorluk Seviyesi]
 
 **Çözümüm:**  
-[Çözümünüzün kısa ve öz açıklaması]
+[Çözümünümün kısa ve öz açıklaması]
 
-[Kod Parçacığı (tercihen birden fazla dilde)]
+[Kod Parçacığı (tercihim birden fazla dilde şu an java)]
 
 **Düşünceler:**  
-[Öğrendikleriniz, ilginç bulduğunuz noktalar, zorlandığınız kısımlar, alternatif yaklaşımlar]
+[Öğrendiklerim, ilginç bulduğum noktalar, zorlandığım kısımlar, alternatif yaklaşımlar]
 
 **Bağlantılar:**  
 [GitHub üzerindeki ilgili dosyaya bağlantı]
@@ -53,7 +53,7 @@ Her gün için şu formatta bir tweet dizisi yayınlayacağım:
 
 Aşağıda, Neetcode 150 listesindeki konu başlıklarını ve her bir konuya ait çözümleri bulabileceğiniz depodaki klasörlerin bağlantılarını görebilirsiniz:
 
-- [Arrays & Hashing[1/9]](https://github.com/sevketugurel/NeetCode150DaysChallenge/tree/main/Arrays_and_Hashing)
+- [Arrays & Hashing[2/9]](https://github.com/sevketugurel/NeetCode150DaysChallenge/tree/main/Arrays_and_Hashing)
 - [Two Pointers](https://github.com/sevketugurel/NeetCode150DaysChallenge/tree/main/Two_Pointers)
 - [Sliding Window](https://github.com/sevketugurel/NeetCode150DaysChallenge/tree/main/Sliding_Window)
 - [Stack](https://github.com/sevketugurel/NeetCode150DaysChallenge/tree/main/Stack)
